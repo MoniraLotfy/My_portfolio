@@ -294,7 +294,8 @@ to {
     }
 
   .typing h1{
-      font-size: 1rem;
+      font-size: 0.9rem;
+      width:100%;
     }
     p {
       font-size: 0.95rem;
